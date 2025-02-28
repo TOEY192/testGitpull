@@ -1,0 +1,10 @@
+[
+    {
+        "customerId": "1",
+        "employeeId": "1",
+        "date": "2025-02-24",
+        "productId": "9",
+        "amount": "2",
+        "totalPrice": "159.96"
+    }
+]
