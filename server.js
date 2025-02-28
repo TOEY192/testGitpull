@@ -10,7 +10,7 @@ const connection = mysql.createConnection({
     host: "134.209.101.105",
     user: "gitest",
     password: "github",
-    database: "db_group13"
+    database: "eieieieie"
 });
 
 // เชื่อมต่อกับฐานข้อมูล
