@@ -9,7 +9,7 @@ const port = 3000;
 const connection = mysql.createConnection({
     host: "134.209.101.105",
     user: "gitest",
-    password: "gitgitgit",
+    password: "github",
     database: "db_group13"
 });
 
